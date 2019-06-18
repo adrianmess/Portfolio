@@ -9,7 +9,7 @@ www.adriancodes.com
 - [Live Demo](https://udacity-site-rebuild.firebaseapp.com/)
 - [Code](https://github.com/adrianmess/Udacity-site-rebuild)
 - **Primary Technology:** Angular2 | Firebase DB <br/>
-- <b>Description:</b> Made a clone of Udacity's 2018 website and added an admin page that provides CRUD functionality. Allowing an 'Admin' to add/remove/update the Nano Degree Cards. The Admin page also includes a preview of the Nano Degree List component. 
+- <b>Description:</b> Made a clone of Udacity's 2018 website and added an admin page that provides CRUD functionality. Allowing an 'Admin' to add/remove/update the Nano Degree Cards. The Admin page also includes a preview of the Nano Degree List component.
 
 ### II. Today's Catch
 - [Live Demo](https://todays-catch-market.firebaseapp.com/)
@@ -17,12 +17,16 @@ www.adriancodes.com
 - **Primary Technology:** React | Firebase DB | Firebase Auth
 
 
+<br>
 
-### Other Stuff
-
+## Other Stuff
+#### • Movies and Actors
+- [Live Demo](https://ruby-rails-movie-app.herokuapp.com/)
+- [Code](https://github.com/adrianmess/Ruby-MovieApp)
+- **Primary Technology:** Ruby | Rails | Sqlite or Postgresql
 
 
 #### • Dr Lookup - BetterDr Api
-- [Live Demo]
+<!-- - [Live Demo] -->
 - [Code] https://github.com/adrianmess/doctor-lookup
-- **Primary Technology:**
+- **Primary Technology:** JavaScript
